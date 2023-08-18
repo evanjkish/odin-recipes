@@ -1,0 +1,1 @@
+This is a project to help me shake the rust off on my Web Dev basics. I should be able to reattain basic capabilities in HTML, CSS and JavaScript.
